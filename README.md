@@ -1,4 +1,4 @@
-# Merhaba, Ben nineteetwo 👋
+# Hello! I am nineteetwo!
 
 ![Stats](./profile/stats.svg)
 
