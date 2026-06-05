@@ -4,4 +4,4 @@
 
 ![Top Languages](./profile/top-langs.svg)
 
-![Pinned Repo](./profile/pin-nineteetwo.svg)
+
